@@ -18,7 +18,7 @@
 ## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
 ------------------------------------------------------------------------------------------------------
 
-**_To Do With React_** is a simple todo app using react.js..
+**To Do With React** is a simple todo app using react.js, as a simple project to improve my reactJS skills..
 
 ## ⚙ Functionalites
 ------------------
