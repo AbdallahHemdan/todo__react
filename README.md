@@ -3,7 +3,7 @@
  <img  src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/3.png" alt="ToDo logo"></a>
 </p>
 
-<h3 align="center">🗓 To-Do-With-React</h3>
+<h3 align="center">🗓 ToDo With React</h3>
 <div align="center">
 
 [![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/contributors)
@@ -20,7 +20,7 @@
 
 **To Do With React** is a simple todo app using react.js, as a simple project to improve my reactJS skills..
 
-## ⚙ Functionalites
+## 👀 Functionalites
 ------------------
 
 1. Add elements to the list.
