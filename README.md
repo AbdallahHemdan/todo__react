@@ -34,10 +34,10 @@
 
 <div align="center">
   
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/1.png">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/tree/master/screenshots/1.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/2.png">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/tree/master/screenshots/2.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/3.png">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/tree/master/screenshots/3.png">
 
 </div>
