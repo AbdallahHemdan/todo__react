@@ -1,63 +1,43 @@
 <p align="center">
   <a href="" rel="noopener">
- <img  src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/out.png" alt="pathfinding visulizer logo"></a>
+ <img  src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/screenshots/3.png" alt="ToDo logo"></a>
 </p>
 
-<h3 align="center">🎯 Pathfinding Visualizer</h3>
+<h3 align="center">🗓 To-Do-With-React</h3>
 <div align="center">
 
-[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/Pathfinding-Visualizer)](https://github.com/AbdallahHemdan/Pathfinding-Visualizer/contributors)
-[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/Pathfinding-Visualizer)](https://github.com/AbdallahHemdan/Pathfinding-Visualizer/issues)
-[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/Pathfinding-Visualizer)](https://github.com/AbdallahHemdan/Pathfinding-Visualizer/network)
-[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/Pathfinding-Visualizer)](https://github.com/AbdallahHemdan/Pathfinding-Visualizer/stargazers)
-[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/Pathfinding-Visualizer)](https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/LICENSE)
-<img src="https://img.shields.io/github/languages/top/AbdallahHemdan/Pathfinding-Visualizer"> 
-<img src="https://img.shields.io/github/watchers/AbdallahHemdan/Pathfinding-Visualizer" />
+[![GitHub contributors](https://img.shields.io/github/contributors/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/contributors)
+[![GitHub issues](https://img.shields.io/github/issues/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/issues)
+[![GitHub forks](https://img.shields.io/github/forks/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/network)
+[![GitHub stars](https://img.shields.io/github/stars/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/stargazers)
+[![GitHub license](https://img.shields.io/github/license/AbdallahHemdan/ToDo-With-React)](https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/LICENSE)
+
 </div>
 
 ---
-## 🎈 Pathfinding Visualizer ([Click to try 🚀](https://abdallahhemdan.github.io/Pathfinding-Visualizer/))
+## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
 ------------------------------------------------------------------------------------------------------
 
-**_Pathfinding Visualizer_** is a __dynamically__ visualization app used to visulize the process of finding the shortest path from some ```source```to ```destination``` using bunch of diffrent shortest-path algorithms like (A*, DFS, BFS, Dijkstra and Greedy-BFS) with a pretty cool functionalites like ```Controlling the position of the source and destination``` , ```controlling the speed of the visulization``` , ```randomize obstacles in the grid``` and ```clearing the whole grid to add blocks as you like```
+**_To Do With React_** is a simple todo app using react.js..
 
-## ⚙ How it Works
+## ⚙ Functionalites
 ------------------
 
-1. Users can drag around a start and end node and set them in any place.
-2. Users can then choose a speed of the visualization . 
-3. Users can optionally choose to clear the maze or draw walls by dragging the mouse.
-3. Users can optionally randomize the walls in the maze and add more walls by dragging the mouse.
+1. Add elements to the list.
+2. Edit elements in the list.
+3. Delete elements in the list.
+4. Animate the creating and deletion of items in the list.
+
 
 ## 📷 ScreenShots 
 -------------------
 
 <div align="center">
   
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/8.png">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/1.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/5.png">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/2.png">
 <hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/2.png">
-<hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/3.png">
-<hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/4.png">
-<hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/9.png">
-<hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/6.png">
-<hr>
-<img src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/Screenshots/7.png">
-<hr>
-
-</div>
-
-## 🕶 Demo
-----------
-
-<div align="center">
-  
-<img width="1000px" src="https://github.com/AbdallahHemdan/Pathfinding-Visualizer/blob/master/VideoDemo/Visualizer-out-slow.gif">
+<img src="https://github.com/AbdallahHemdan/ToDo-With-React/blob/master/Screenshots/3.png">
 
 </div>
