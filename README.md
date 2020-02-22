@@ -28,6 +28,13 @@
 3. Delete elements in the list.
 4. Animate the creating and deletion of items in the list.
 
+## ⚙ How to use
+------------------
+
+1. git clone ```https://github.com/AbdallahHemdan/ToDo-With-React.git``` in your terminal
+2. cd todo
+3. npm install
+4. npm run start
 
 ## 📷 ScreenShots 
 -------------------
