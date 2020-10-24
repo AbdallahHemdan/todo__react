@@ -14,14 +14,14 @@
 
 </div>
 
----
+
 ## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
-------------------------------------------------------------------------------------------------------
+
 
 **To Do With React** is a simple todo app using react.js, as a simple project to improve my reactJS skills..
 
 ## 👀 Functionalites
-------------------
+
 
 1. Add elements to the list.
 2. Edit elements in the list.
@@ -29,7 +29,7 @@
 4. Animate the creating and deletion of items in the list.
 
 ## ⚙ How to use
-------------------
+
 
 1. git clone ```https://github.com/AbdallahHemdan/ToDo-With-React.git``` in your terminal
 2. cd todo
@@ -37,7 +37,6 @@
 4. npm run start
 
 ## 📷 ScreenShots 
--------------------
 
 <div align="center">
   
