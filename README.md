@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 ## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
 
 
@@ -29,7 +29,7 @@
 4. Animate the creating and deletion of items in the list.
 
 ## ⚙ How to use
-------------------
+
 
 1. git clone ```https://github.com/AbdallahHemdan/ToDo-With-React.git``` in your terminal
 2. cd todo
@@ -37,7 +37,6 @@
 4. npm run start
 
 ## 📷 ScreenShots 
--------------------
 
 <div align="center">
   
