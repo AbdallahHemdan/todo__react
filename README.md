@@ -16,12 +16,12 @@
 
 ---
 ## 💡 To Do With React ([Click to try 🚀](https://abdallahhemdan.github.io/ToDo-With-React/))
-------------------------------------------------------------------------------------------------------
+
 
 **To Do With React** is a simple todo app using react.js, as a simple project to improve my reactJS skills..
 
 ## 👀 Functionalites
-------------------
+
 
 1. Add elements to the list.
 2. Edit elements in the list.
