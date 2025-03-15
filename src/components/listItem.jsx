@@ -8,7 +8,7 @@ function listItem(props) {
     const items = props.items;
     const listItems = items.map(item => {
         return (
-            <div className="list" key={item.key}>
+            <div className={`list priority-${item.priority}`} key={item.key}>
                 <p>
                     <input
                         type="text"
@@ -16,6 +16,7 @@ function listItem(props) {
                         value={item.text}
                         onChange={action => props.setUpdate(action.target.value, item.key)}
                     />
+                    <span className="priority-badge">{item.priority}</span>
                     <span className="trashIcon">
                         <FontAwesomeIcon
                             className="faicons"
