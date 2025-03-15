@@ -14,18 +14,30 @@ class App extends Component {
       items: [],
       currentItem: {
         text: "",
-        key: ""
+        key: "",
+        priority: "medium"
       }
     };
   }
   handleInput = action => {
     this.setState({
       currentItem: {
+        ...this.state.currentItem,
         text: action.target.value,
         key: Date.now()
       }
     });
   };
+  
+  handlePriorityChange = action => {
+    this.setState({
+      currentItem: {
+        ...this.state.currentItem,
+        priority: action.target.value
+      }
+    });
+  };
+  
   handleAddItem = action => {
     action.preventDefault();
     const newItem = this.state.currentItem;
@@ -35,7 +47,8 @@ class App extends Component {
         items,
         currentItem: {
           text: "",
-          key: ""
+          key: "",
+          priority: "medium"
         }
       });
     }
@@ -66,6 +79,15 @@ class App extends Component {
               value={this.state.currentItem.text}
               onChange={this.handleInput}
             />
+            <select 
+              value={this.state.currentItem.priority}
+              onChange={this.handlePriorityChange}
+              className="priority-select"
+            >
+              <option value="high">High</option>
+              <option value="medium">Medium</option>
+              <option value="low">Low</option>
+            </select>
             <button type="submit" onClick={this.handleAddItem}>
               Add
             </button>
